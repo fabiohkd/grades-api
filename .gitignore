@@ -2,3 +2,4 @@
 .env
 Procfile
 /.vscode
+package-lock.json
